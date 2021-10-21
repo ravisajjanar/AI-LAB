@@ -1,0 +1,33 @@
+list = ['1','2','3' ,'4','5','6','7','8','9']
+
+print('     |     |')
+print('  ' + list[0] + '  |  ' + list[1] + '  |  ' + list[2])
+print('     |     |')
+print('-----------------')
+print('     |     |')
+print('  ' + list[3] + '  |  ' + list[4] + '  |  ' + list[5])
+print('     |     |')
+print('-----------------')
+print('     |     |')
+print('  ' + list[6] + '  |  ' + list[7] + '  |  ' + list[8])
+print('     |     |')
+print('                 ')
+
+output 
+
+
+C:\Users\bmsce\1BM19CS127\lab1\venv\Scripts\python.exe C:/Users/bmsce/1BM19CS127/lab1/main.py
+     |     |
+  1  |  2  |  3
+     |     |
+-----------------
+     |     |
+  4  |  5  |  6
+     |     |
+-----------------
+     |     |
+  7  |  8  |  9
+     |     |
+                 
+
+Process finished with exit code 0
